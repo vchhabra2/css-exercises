@@ -1,0 +1,13 @@
+/* I prefer using styles.css rather than style.css for the file name */
+
+/* Practice using descendant combinators */
+
+div .text {
+    background-color: yellow;
+    color:red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* div p { ... } */
+/* Will also work here for the descendant combinator */

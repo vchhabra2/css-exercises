@@ -1,0 +1,10 @@
+/* Always create the styles.css file first, then link in the html after  */
+div {
+    color:white;
+    background-color:red;
+    font-size:32px;
+    font-weight: bold;
+    text-align:center;
+}
+
+/* External styling for only the div element */
